@@ -64,11 +64,11 @@ python-dotenv
   
 3️⃣ Instale as dependências:
 - pip install -r requirements.txt
-- 🔑 Configuração da API Key
+  
+🔑 Configuração da API Key:
 
-Crie um arquivo .env na raiz do projeto:
-
-OPENAI_API_KEY=sua_chave_aqui
+- Crie um arquivo .env na raiz do projeto
+- OPENAI_API_KEY=sua_chave_aqui
 
 ⚠️ Nunca envie sua API key para o GitHub.
 
