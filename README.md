@@ -1,5 +1,9 @@
 📄 ChatPDF com RAG (LangChain + Streamlit)
 
+<img width="1911" height="902" alt="image" src="https://github.com/user-attachments/assets/414b93b3-5ad4-4756-a3fe-591846814f97" />
+
+--------------------------------------------------------------------------
+
 Aplicação web que permite fazer perguntas sobre documentos PDF utilizando:
 
 🔎 RAG (Retrieval Augmented Generation)
